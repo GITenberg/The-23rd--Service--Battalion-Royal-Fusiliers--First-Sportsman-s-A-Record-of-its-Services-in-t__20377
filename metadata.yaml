@@ -1,0 +1,30 @@
+_repo: The-23rd--Service--Battalion-Royal-Fusiliers--First-Sportsman-s-A-Record-of-its-Services-in-t__20377
+_version: 0.1.0
+alternative_title: "Twenty-third (Service) Battalion Royal Fusiliers (First Sportsman's)\r\
+  \nA Record of its Services in the Great War, 1914-1919"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Fred W.
+    gutenberg_agent_id: '9260'
+    url: http://www.gutenberg.org/2009/agents/9260
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. 23rd Royal Fusiliers'
+- !lcc 'D501'
+title: 'The 23rd (Service) Battalion Royal Fusiliers (First Sportsman''s)
+
+  A Record of its Services in the Great War, 1914-1919'
+url: http://www.gutenberg.org/ebooks/20377
