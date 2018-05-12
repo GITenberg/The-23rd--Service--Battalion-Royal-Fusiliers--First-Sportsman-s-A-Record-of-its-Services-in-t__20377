@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9260'
     url: http://www.gutenberg.org/2009/agents/9260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20377#The-23rd--Service--Battalion-Royal-Fusiliers--First-Sportsman-s-A-Record-of-its-Services-in-t_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-01-15'
 gutenberg_type: Text
